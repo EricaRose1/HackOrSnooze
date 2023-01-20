@@ -1,4 +1,7 @@
 # HackOrSnooze!
+
+  Image preview of some features...
+  
 Before Login
   ![Screenshot 2023-01-19 160131](https://user-images.githubusercontent.com/115095732/213603856-cf1e603f-6bd2-4427-b79d-c79b515c3d6e.png)
   
